@@ -3,7 +3,7 @@
 
 <!-- Resume Button (GitHub-hosted) -->
 <p align="center">
-  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main//Users/shamsrupak/Downloads/Shams_Rupak_Quant_Trader_Resume.pdf" target="_blank">
+  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Quant_Trader_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
