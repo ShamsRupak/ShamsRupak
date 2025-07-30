@@ -81,10 +81,10 @@ On the side, I also create fitness content that's generated over **30 million vi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamsRupak&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsRupak&layout=compact&theme=tokyonight" width="50%" />
 </p>
-
+-->
 ---
 
 ## 📬 Let's Connect
