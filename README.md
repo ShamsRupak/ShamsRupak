@@ -16,7 +16,7 @@
   <a href="mailto:shamsrupak@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams%20Rupak_Software%20Engineer%20Intern.pdf">
+  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Software_Engineer.pdf">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ShamsRupak&style=for-the-badge&color=blueviolet" />
