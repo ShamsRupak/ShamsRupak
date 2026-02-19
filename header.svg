@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1b2e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#C084FC;#E879F9;#A78BFA" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#C084FC">
+        <animate attributeName="stop-color" values="#C084FC;#E879F9;#A78BFA;#C084FC" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#E879F9">
+        <animate attributeName="stop-color" values="#E879F9;#A78BFA;#C084FC;#E879F9" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#A78BFA;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#C084FC;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <style>
+    @keyframes float1 { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-12px); } }
+    @keyframes float2 { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+    @keyframes float3 { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-15px); } }
+    @keyframes pulse { 0%,100% { opacity: 0.3; } 50% { opacity: 0.8; } }
+    @keyframes pulse2 { 0%,100% { opacity: 0.2; } 50% { opacity: 0.6; } }
+    @keyframes slideIn { 0% { opacity: 0; transform: translateY(15px); } 100% { opacity: 1; transform: translateY(0); } }
+    @keyframes lineExpand { 0% { stroke-dashoffset: 800; } 100% { stroke-dashoffset: 0; } }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes orbitSlow { 0% { transform: rotate(0deg) translateX(40px) rotate(0deg); } 100% { transform: rotate(360deg) translateX(40px) rotate(-360deg); } }
+    
+    .particle { animation: pulse 3s ease-in-out infinite; }
+    .particle2 { animation: pulse2 4s ease-in-out infinite; }
+    .float1 { animation: float1 6s ease-in-out infinite; }
+    .float2 { animation: float2 5s ease-in-out infinite 0.5s; }
+    .float3 { animation: float3 7s ease-in-out infinite 1s; }
+    .name-text { animation: slideIn 1s ease-out forwards; opacity: 0; }
+    .subtitle { animation: slideIn 1s ease-out 0.3s forwards; opacity: 0; }
+    .accent-line { stroke-dasharray: 800; animation: lineExpand 2s ease-out 0.5s forwards; stroke-dashoffset: 800; }
+    .cursor { animation: blink 1s step-end infinite; }
+    .orbit-dot { animation: orbitSlow 8s linear infinite; transform-origin: 600px 90px; }
+  </style>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  
+  <!-- Floating particles -->
+  <circle cx="150" cy="60" r="1.5" fill="#A78BFA" class="particle float1" opacity="0.3"/>
+  <circle cx="300" cy="200" r="1" fill="#C084FC" class="particle2 float2" opacity="0.2"/>
+  <circle cx="450" cy="40" r="2" fill="#E879F9" class="particle float3" opacity="0.3"/>
+  <circle cx="600" cy="250" r="1.5" fill="#A78BFA" class="particle2 float1" opacity="0.2"/>
+  <circle cx="750" cy="80" r="1" fill="#C084FC" class="particle float2" opacity="0.3"/>
+  <circle cx="900" cy="220" r="2" fill="#E879F9" class="particle2 float3" opacity="0.2"/>
+  <circle cx="1050" cy="50" r="1.5" fill="#A78BFA" class="particle float1" opacity="0.3"/>
+  <circle cx="100" cy="180" r="1" fill="#C084FC" class="particle2 float3" opacity="0.2"/>
+  <circle cx="200" cy="120" r="0.8" fill="#E879F9" class="particle float2" opacity="0.25"/>
+  <circle cx="500" cy="150" r="1.2" fill="#A78BFA" class="particle2 float1" opacity="0.2"/>
+  <circle cx="700" cy="180" r="0.8" fill="#C084FC" class="particle float3" opacity="0.3"/>
+  <circle cx="850" cy="120" r="1.5" fill="#E879F9" class="particle2 float2" opacity="0.2"/>
+  <circle cx="1100" cy="160" r="1" fill="#A78BFA" class="particle float1" opacity="0.25"/>
+  <circle cx="350" cy="260" r="0.8" fill="#C084FC" class="particle2 float3" opacity="0.2"/>
+  <circle cx="950" cy="30" r="1.2" fill="#E879F9" class="particle float2" opacity="0.3"/>
+  
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="70" x2="1200" y2="70" stroke="#A78BFA" stroke-width="0.3" opacity="0.05"/>
+  <line x1="0" y1="140" x2="1200" y2="140" stroke="#A78BFA" stroke-width="0.3" opacity="0.05"/>
+  <line x1="0" y1="210" x2="1200" y2="210" stroke="#A78BFA" stroke-width="0.3" opacity="0.05"/>
+  
+  <!-- Orbiting dot around center area -->
+  <circle cx="600" cy="90" r="2" fill="#C084FC" class="orbit-dot" filter="url(#glow)" opacity="0.5"/>
+  
+  <!-- Accent line -->
+  <line x1="200" y1="155" x2="1000" y2="155" stroke="url(#lineGrad)" stroke-width="1" class="accent-line"/>
+  
+  <!-- Main text -->
+  <text x="600" y="105" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" class="name-text">
+    Shams Rupak
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="195" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#94a3b8" letter-spacing="4" class="subtitle">
+    SOFTWARE ENGINEER  ·  AI/ML ENGINEER  ·  SYSTEMS BUILDER
+  </text>
+  
+  <!-- Terminal-style bottom text -->
+  <text x="600" y="240" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#A78BFA" opacity="0.6" class="subtitle">
+    ~/shams $ python build_the_future.py<tspan class="cursor" fill="#C084FC">▊</tspan>
+  </text>
+  
+  <!-- Decorative corner elements -->
+  <polyline points="30,30 30,60 60,60" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.2" class="float1"/>
+  <polyline points="1170,30 1170,60 1140,60" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.2" class="float2"/>
+  <polyline points="30,250 30,220 60,220" fill="none" stroke="#C084FC" stroke-width="1" opacity="0.2" class="float3"/>
+  <polyline points="1170,250 1170,220 1140,220" fill="none" stroke="#C084FC" stroke-width="1" opacity="0.2" class="float1"/>
+</svg>
