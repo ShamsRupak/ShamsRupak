@@ -26,6 +26,9 @@
   </a>&nbsp;
   <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Software_Engineer.pdf">
     <img src="https://img.shields.io/badge/Resume-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white" />
+ </a>&nbsp;
+  <a href="https://shamsrupak.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ShamsRupak&style=for-the-badge&color=6d28d9&label=VISITORS" />
 </p>
@@ -87,7 +90,7 @@ class ShamsRupak:
     }
     
     def whats_next(self):
-        return "Seeking SWE / ML roles for 2025-2026 🚀"
+        return "Seeking SWE / ML roles for 2026 🚀"
 ```
 
 </td>
@@ -360,7 +363,7 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
  ║                                                                  ║
  ║   🚀  Open to Software Engineering & ML Engineering roles        ║
  ║   📍  Based in New York — open to relocation & remote            ║
- ║   📅  Available for 2025-2026 internships & full-time            ║
+ ║   📅  Available for 2026 internships & full-time                 ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
