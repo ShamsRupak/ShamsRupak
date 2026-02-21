@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 SHAMS RUPAK — GitHub Profile README v2.0                                  -->
+<!-- 🔥 SHAMS RUPAK — GitHub Profile README v3.0                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Custom Animated SVG Header (commit header.svg to your repo alongside README) -->
+<!-- Custom Animated SVG Header -->
 <div align="center">
-  <a href="https://github.com/ShamsRupak">
+  <a href="https://shamsrupak.lovable.app">
     <img src="header.svg" alt="Shams Rupak — Software Engineer | AI/ML Engineer" width="100%" />
   </a>
 </div>
@@ -12,7 +12,7 @@
 <!-- Dynamic Typing — Terminal Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%E2%9E%9C+shams%40nyc+~%2Fprojects+%24+python+deploy_ml_pipeline.py+%E2%9C%93;%E2%9E%9C+building+RAG+systems+%7C+shipping+production+ML+%7C+open+to+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9E%9C+shams%40nyc+~%2Fprojects+%24+g%2B%2B+-std%3Dc%2B%2B20+cachecraft.cpp+%E2%9C%93;%E2%9E%9C+C%2B%2B+systems+%7C+backend+APIs+%7C+ML+pipelines+%7C+open+to+roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,9 +24,9 @@
   <a href="mailto:shamsrupak@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Software_Engineer.pdf?v=2">
+  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Software_Engineer.pdf">
     <img src="https://img.shields.io/badge/Resume-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white" />
- </a>&nbsp;
+  </a>&nbsp;
   <a href="https://shamsrupak.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>&nbsp;
@@ -42,20 +42,28 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/60%25-A78BFA?style=for-the-badge&logoColor=white" /><br>
-<sub><b>Document Processing<br>Time Reduced</b></sub>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/60%25-A78BFA?style=for-the-badge" /><br>
+<sub><b>Pipeline Throughput<br>Increase</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/95%25+-C084FC?style=for-the-badge&logoColor=white" /><br>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/O(1)-C084FC?style=for-the-badge" /><br>
+<sub><b>LRU Eviction<br>Cache Server</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/1,000+-7C3AED?style=for-the-badge" /><br>
+<sub><b>Financial Documents<br>Processed</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/95%25+-6D28D9?style=for-the-badge" /><br>
 <sub><b>Blockchain Risk<br>Detection Accuracy</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/1,000+-7C3AED?style=for-the-badge&logoColor=white" /><br>
-<sub><b>Financial Documents<br>Automated</b></sub>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/30+-8B5CF6?style=for-the-badge" /><br>
+<sub><b>Students Mentored<br>in C++ Systems</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/30M+-6D28D9?style=for-the-badge&logoColor=white" /><br>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/30M+-9333EA?style=for-the-badge" /><br>
 <sub><b>Fitness Content<br>Views</b></sub>
 </td>
 </tr>
@@ -72,25 +80,41 @@
 <tr>
 <td width="55%">
 
-```python
-class ShamsRupak:
-    """Software Engineer who builds AI systems at scale."""
+```cpp
+class ShamsRupak {
+public:
+    // Software Engineer | AI/ML Engineer
     
-    role      = "Software Engineer | AI/ML Engineer"
-    location  = "New York, NY 📍"
-    education = "M.S. Engineering AI @ Stony Brook (2026)"
-    current   = "Teaching Assistant — C++ OOP Systems"
+    string role      = "Software Engineer | AI/ML Engineer";
+    string location  = "New York, NY";
+    string education = "M.S. Engineering AI @ Stony Brook";
+    string current   = "Teaching Assistant — C++ OOP";
     
-    core_skills = {
-        "languages" : ["Python", "C++", "Java", "JS", "SQL"],
-        "ml_ai"     : ["PyTorch", "RAG", "LLMs", "NLP", "OCR"],
-        "systems"   : ["DSA", "OOP", "STL", "Memory Mgmt"],
-        "infra"     : ["Linux", "Git", "REST APIs", "ETL"],
-        "web"       : ["React", "Chrome Extensions"],
+    vector<string> languages = {
+        "C++", "Python", "Java", "SQL",
+        "JavaScript", "C"
+    };
+    
+    vector<string> backend_systems = {
+        "REST APIs", "JWT Auth", "RBAC",
+        "Redis Caching", "Rate Limiting",
+        "PostgreSQL", "Docker", "CI/CD"
+    };
+    
+    vector<string> core_cs = {
+        "DSA", "OOP Design", "Concurrency",
+        "Memory Mgmt (RAII)", "Complexity Analysis"
+    };
+    
+    vector<string> ml_ai = {
+        "PyTorch", "RAG", "NLP", "OCR",
+        "LLMs", "scikit-learn", "Embeddings"
+    };
+
+    string status() {
+        return "Open to SWE / ML roles — 2026 🚀";
     }
-    
-    def whats_next(self):
-        return "Seeking SWE / ML roles for 2026 🚀"
+};
 ```
 
 </td>
@@ -110,14 +134,45 @@ class ShamsRupak:
 <summary><b>&nbsp;⚡ Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,c,r,html,css&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,c&perline=8&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-Systems_Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Systems_&_Concurrency-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Backend_&_ML-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Full_Stack-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-Data_Engineering-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-Low_Level-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;🔧 Backend & Systems</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,redis,postgres,linux,git,cmake&perline=8&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-Auth_&_RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-Caching_&_Rate_Limiting-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Schema_&_Migrations-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-Build_Systems-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Alembic-DB_Migrations-6BA81E?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;🧪 Testing & Quality</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unit_&_Integration-Testing-25A162?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASAN/UBSAN-Sanitizers-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI_Pipelines-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging-GDB_&_Valgrind-4A154B?style=flat-square" />
 </p>
 </details>
 
@@ -140,61 +195,18 @@ class ShamsRupak:
 </details>
 
 <details open>
-<summary><b>&nbsp;🔧 Systems, Tools & Web</b></summary>
+<summary><b>&nbsp;🌐 Web & Tools</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,git,linux,vscode,docker&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode&perline=8&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/REST_APIs-Integration-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome_Extensions-Browser_Dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_APIs-Integration-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-Scientific-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-DataOps-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
-</details>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> &nbsp;Experience
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-> *Building production systems, teaching systems programming, and shipping ML pipelines.*
-
-```
-📅 Timeline
-═══════════════════════════════════════════════════════════════════════
- Jan 2026 – Now      🎓  Teaching Assistant — C++ OOP @ Stony Brook
- May 2025 – Jul 2025 🤖  AI Engineering Extern @ Outamation
- Sep 2024 – Nov 2024 🔐  Web3 Security Analyst @ Webacy
-═══════════════════════════════════════════════════════════════════════
-```
-
-<details>
-<summary><b>🎓 Teaching Assistant — C++ OOP &nbsp;|&nbsp; Stony Brook University</b> &nbsp;<sub>Jan 2026 – Present</sub></summary>
-<br>
-
-Mentoring **30+ students** in systems-level C++ — covering OOP design patterns, STL containers, dynamic memory management, RAII, and debugging memory leaks/segfaults. Leading code reviews focused on modular architecture, algorithmic efficiency, and runtime optimization.
-
-</details>
-
-<details>
-<summary><b>🤖 AI Engineering & Automation Extern &nbsp;|&nbsp; Outamation</b> &nbsp;<sub>May 2025 – Jul 2025</sub></summary>
-<br>
-
-- Designed and deployed a **modular AI document processing pipeline** (Python, PyMuPDF, Tesseract OCR, NLP, LLM classification) across **1,000+ financial documents** — cutting manual processing time by **60%**
-- Built a **RAG-powered retrieval system** with LlamaIndex, contextual chunking, and embedding-based semantic search
-- Benchmarked transformer models across latency, context window, and precision trade-offs for production deployment
-
-</details>
-
-<details>
-<summary><b>🔐 Web3 Security Data Analytics Extern &nbsp;|&nbsp; Webacy</b> &nbsp;<sub>Sep 2024 – Nov 2024</sub></summary>
-<br>
-
-Applied **unsupervised ML & clustering** to detect anomalous blockchain transactions and smart contract vulnerabilities, achieving **95%+ accuracy** in labeled dataset reliability for risk categorization.
-
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -202,6 +214,42 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ CacheCraft — Concurrent Cache Server</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/cachecraft">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=cachecraft&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/TCP-Networking-333?style=flat-square" />
+        <img src="https://img.shields.io/badge/Concurrency-Threads-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/CI-ASAN/UBSAN-FF6B6B?style=flat-square" />
+      </p>
+      <blockquote>
+        Redis-inspired TCP cache server with <b>O(1) LRU eviction</b>, TTL expiration, and sharded thread-safe storage. Benchmarked p50/p95/p99 latency. Cross-platform CI with sanitizer builds.
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 PulseAPI — Production Backend Service</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/pulseapi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=pulseapi&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <blockquote>
+        REST API with <b>JWT auth, RBAC</b>, PostgreSQL data modeling & migrations, Redis caching & rate limiting, health/metrics endpoints. Containerized with Docker Compose + automated CI.
+      </blockquote>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Document Processing Suite</h3>
@@ -218,7 +266,7 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
         <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square" />
       </p>
       <blockquote>
-        End-to-end pipeline processing <b>1,000+ financial docs</b> with intelligent classification, OCR extraction, and embedding-based semantic retrieval. <b>60% less manual handling.</b>
+        End-to-end pipeline processing <b>1,000+ financial docs</b> with intelligent classification, OCR extraction, and embedding-based semantic retrieval. <b>60% throughput increase.</b>
       </blockquote>
     </td>
     <td width="50%" valign="top">
@@ -276,6 +324,65 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> &nbsp;Experience
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+> *From retail floor to systems programming — building, teaching, and shipping at every stage.*
+
+```
+📅 Full Timeline
+═══════════════════════════════════════════════════════════════════════════════
+ Jan 2026 – Now      🎓  Teaching Assistant — C++ OOP         @ Stony Brook
+ May 2025 – Jul 2025 🤖  AI Engineering & Automation Extern   @ Outamation
+ Sep 2024 – Nov 2024 🔐  Web3 Security Data Analytics Extern  @ Webacy
+ Jul 2024 – May 2025 📱  Retail Mobile Expert                 @ T-Mobile
+ Aug 2025 – Oct 2025 🍎  Sales Specialist                     @ Apple
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+<details>
+<summary><b>🎓 Teaching Assistant — C++ OOP &nbsp;|&nbsp; Stony Brook University</b> &nbsp;<sub>Jan 2026 – Present</sub></summary>
+<br>
+
+Mentoring **30+ students** in systems-level C++ — covering OOP design patterns, STL containers, dynamic memory management, RAII, and pointer safety. Debugging segfaults, memory leaks, and logic errors. Conducting code reviews emphasizing correctness, modularity, and performance.
+
+</details>
+
+<details>
+<summary><b>🤖 AI Engineering & Automation Extern &nbsp;|&nbsp; Outamation</b> &nbsp;<sub>May 2025 – Jul 2025</sub></summary>
+<br>
+
+- Designed and deployed a **modular AI document processing pipeline** (Python, PyMuPDF, Tesseract OCR, NLP, LLM classification) across **1,000+ financial documents** — cutting manual processing time by **60%**
+- Built a **RAG-powered retrieval system** with LlamaIndex, contextual chunking, and embedding-based semantic search
+- Benchmarked transformer models across latency, context window, and precision trade-offs for production deployment
+
+</details>
+
+<details>
+<summary><b>🔐 Web3 Security Data Analytics Extern &nbsp;|&nbsp; Webacy</b> &nbsp;<sub>Sep 2024 – Nov 2024</sub></summary>
+<br>
+
+Applied **unsupervised ML & clustering** to detect anomalous blockchain transactions and smart contract vulnerabilities, achieving **95%+ accuracy** in labeled dataset reliability for risk categorization.
+
+</details>
+
+<details>
+<summary><b>📱 Retail Mobile Expert &nbsp;|&nbsp; T-Mobile</b> &nbsp;<sub>Jul 2024 – May 2025</sub></summary>
+<br>
+
+Consultative sales across T-Mobile's full product ecosystem — devices, plans, home internet, and accessories. Diagnosed technical issues, performed device troubleshooting, and delivered personalized solutions in a high-volume retail environment.
+
+</details>
+
+<details>
+<summary><b>🍎 Sales Specialist &nbsp;|&nbsp; Apple</b> &nbsp;<sub>Aug 2025 – Oct 2025</sub></summary>
+<br>
+
+Delivered the Apple retail experience — product consultation, hands-on demos, and technical guidance across the full Apple ecosystem. Consistent top performer in customer satisfaction and sales metrics.
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> &nbsp;Education
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -286,7 +393,7 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
 </td>
 <td>
   <b>Stony Brook University</b> — M.S. Engineering Artificial Intelligence <sub>(Aug 2025 – Dec 2026)</sub><br>
-  <sub>Machine Learning · Deep Learning · AI for Robotics · Motion Planning · Computer Vision</sub>
+  <sub>Data Structures & Algorithms · Object-Oriented Programming (C++) · Software Engineering · Machine Learning · Deep Learning · AI for Robotics</sub>
 </td>
 </tr>
 <tr>
@@ -295,7 +402,7 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
 </td>
 <td>
   <b>Stony Brook University</b> — B.S. Applied Mathematics & Statistics <sub>(Aug 2021 – May 2025)</sub><br>
-  <sub>Data Structures & Algorithms · OOP · Probability Theory · Linear Algebra</sub>
+  <sub>Applied Mathematics · Probability Theory · Linear Algebra · Statistics · OOP</sub>
 </td>
 </tr>
 </table>
@@ -314,7 +421,7 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsRupak&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&title_color=A78BFA" width="40%" />
 </p>
 
-<!-- 🐍 Contribution Snake — see setup instructions in snake-workflow.yml -->
+<!-- 🐍 Contribution Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShamsRupak/ShamsRupak/output/github-snake-dark.svg" />
@@ -336,18 +443,18 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
   <tr>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-      <br><b>Advanced ML/DL</b><br>
-      <sub>Transformers · LLM Fine-Tuning<br>Computer Vision · Robotics</sub>
+      <br><b>Systems Programming</b><br>
+      <sub>Distributed Systems · Networking<br>Performance Profiling</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-      <br><b>Systems & Infra</b><br>
-      <sub>Distributed Systems · Docker<br>Cloud Deploy · CI/CD</sub>
+      <br><b>Backend Infrastructure</b><br>
+      <sub>Kubernetes · Cloud Deploy<br>Observability · Monitoring</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-      <br><b>Production Scale</b><br>
-      <sub>ML Pipelines · System Design<br>Microservices · gRPC</sub>
+      <br><b>ML at Scale</b><br>
+      <sub>Model Serving · MLOps<br>LLM Fine-Tuning</sub>
     </td>
   </tr>
 </table>
@@ -363,7 +470,7 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
  ║                                                                  ║
  ║   🚀  Open to Software Engineering & ML Engineering roles        ║
  ║   📍  Based in New York — open to relocation & remote            ║
- ║   📅  Available for 2026 internships & full-time                 ║
+ ║   🔧  C++ · Python · Backend · Systems · ML · Databases          ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -376,8 +483,8 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
 <a href="mailto:shamsrupak@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/ShamsRupak">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://shamsrupak.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br><br>
@@ -390,5 +497,5 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:a78bfa&height=120&section=footer&animation=twinkling" width="100%" />
 
 <p align="center">
-  <sub>⚡ <a href="https://github.com/ShamsRupak">@ShamsRupak</a> — shipping code, shipping models, shipping results.</sub>
+  <sub>⚡ <a href="https://github.com/ShamsRupak">@ShamsRupak</a> — shipping code, shipping systems, shipping results.</sub>
 </p>
