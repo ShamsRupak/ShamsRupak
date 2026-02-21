@@ -24,7 +24,7 @@
   <a href="mailto:shamsrupak@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Software_Engineer.pdf">
+  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Software_Engineer.pdf?v=2">
     <img src="https://img.shields.io/badge/Resume-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white" />
  </a>&nbsp;
   <a href="https://shamsrupak.lovable.app">
