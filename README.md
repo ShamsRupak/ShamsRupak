@@ -5,14 +5,14 @@
 <!-- Custom Animated SVG Header -->
 <div align="center">
   <a href="https://shamsrupak.lovable.app">
-    <img src="header.svg" alt="Shams Rupak — Software Engineer | AI/ML Engineer" width="100%" />
+    <img src="header.svg?v=4" alt="Shams Rupak — Software Engineer | AI/ML Engineer" width="100%" />
   </a>
 </div>
 
 <!-- Dynamic Typing — Terminal Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%E2%9E%9C+shams%40nyc+%24+cargo+build+--release+%E2%9C%93+304K+rec%2Fs;%E2%9E%9C+systems+%7C+compilers+%7C+streaming+%7C+ML+ops+%7C+open+to+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=40&lines=%E2%9E%9C+Built+a+compiler+from+scratch+in+C%2B%2B20+%E2%80%94+28+opcodes%2C+mark-sweep+GC;%E2%9E%9C+Rust+streaming+engine+%E2%80%94+304K+records%2Fsec+throughput;%E2%9E%9C+GPT+transformer+from+scratch+%E2%80%94+RoPE%2C+RMSNorm%2C+BPE;%E2%9E%9C+AI+agent+orchestration+%E2%80%94+LoRA+fine-tuning%2C+207+tests;%E2%9E%9C+500%2B+tests+across+10+projects+%E2%80%94+open+to+SWE+%2F+ML+roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -68,6 +68,26 @@
 </td>
 </tr>
 </table>
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🧱 BUILT FROM SCRATCH CALLOUT                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+> **🧱 I don't use frameworks to learn — I build from scratch.**
+> 
+> **Compiler** → lexer, Pratt parser, type inference, 28-opcode bytecode compiler, stack VM with mark-sweep GC *(C++20)*
+> 
+> **Streaming Engine** → commit log, TCP broker, wire protocol, producer/consumer SDKs, LZ4 compression *(Rust)*
+> 
+> **Transformer** → GPT architecture from scratch — RoPE, RMSNorm, BPE tokenizer, MQA ablation *(PyTorch)*
+> 
+> **Cache Server** → O(1) LRU eviction, TTL, sharded thread-safe storage, benchmarked latency *(C++20)*
+
 </div>
 
 <br>
@@ -227,7 +247,7 @@ public:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌊 StreamForge — Event Streaming Engine</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/streamforge">🌊 StreamForge — Event Streaming Engine</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/streamforge">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=streamforge&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -244,7 +264,7 @@ public:
       </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔤 TinyLang — Compiled Language</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/tinylang">🔤 TinyLang — Compiled Language</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/tinylang">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=tinylang&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -265,7 +285,7 @@ public:
   <!-- ROW 2: Nexus + SentinelBoard — AI/ML infrastructure -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 Nexus — AI Agent Orchestration Platform</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/nexus">🧬 Nexus — AI Agent Orchestration Platform</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/nexus">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=nexus&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -282,7 +302,7 @@ public:
       </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📡 SentinelBoard — ML Monitoring Dashboard</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/sentinelboard">📡 SentinelBoard — ML Monitoring Dashboard</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/sentinelboard">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=sentinelboard&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -303,7 +323,7 @@ public:
   <!-- ROW 3: CacheCraft + MicroFormer -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ CacheCraft — Concurrent Cache Server</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/cachecraft">⚡ CacheCraft — Concurrent Cache Server</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/cachecraft">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=cachecraft&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -320,7 +340,7 @@ public:
       </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 MicroFormer — GPT Transformer</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/microformer">🧠 MicroFormer — GPT Transformer</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/microformer">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=microformer&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -341,7 +361,7 @@ public:
   <!-- ROW 4: SAGE + PulseAPI -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 SAGE — LLM Research Agent</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/sage">🔍 SAGE — LLM Research Agent</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/sage">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=sage&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -358,7 +378,7 @@ public:
       </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔗 PulseAPI — Production Backend Service</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/pulseapi">🔗 PulseAPI — Production Backend Service</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/pulseapi">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=pulseapi&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -379,7 +399,7 @@ public:
   <!-- ROW 5: AI Doc Suite + NYC Weather -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Document Processing Suite</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/ai-doc-processing-suite">🤖 AI Document Processing Suite</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/ai-doc-processing-suite">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=ai-doc-processing-suite&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
@@ -396,7 +416,7 @@ public:
       </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌤️ NYC Weather Prediction</h3>
+      <h3 align="center"><a href="https://github.com/ShamsRupak/nyc-weather-prediction">🌤️ NYC Weather Prediction</a></h3>
       <div align="center">
         <a href="https://github.com/ShamsRupak/nyc-weather-prediction">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=nyc-weather-prediction&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
