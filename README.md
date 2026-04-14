@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 SHAMS RUPAK — GitHub Profile README v3.0                                  -->
+<!-- 🔥 SHAMS RUPAK — GitHub Profile README v4.0                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- Custom Animated SVG Header -->
@@ -12,7 +12,7 @@
 <!-- Dynamic Typing — Terminal Style -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9E%9C+shams%40nyc+~%2Fprojects+%24+g%2B%2B+-std%3Dc%2B%2B20+cachecraft.cpp+%E2%9C%93;%E2%9E%9C+C%2B%2B+systems+%7C+backend+APIs+%7C+ML+pipelines+%7C+open+to+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%E2%9E%9C+shams%40nyc+%24+cargo+build+--release+%E2%9C%93+304K+rec%2Fs;%E2%9E%9C+systems+%7C+compilers+%7C+streaming+%7C+ML+ops+%7C+open+to+roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -43,28 +43,28 @@
 <table>
 <tr>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/60%25-A78BFA?style=for-the-badge" /><br>
-<sub><b>Pipeline Throughput<br>Increase</b></sub>
+<img src="https://img.shields.io/badge/304K-A78BFA?style=for-the-badge" /><br>
+<sub><b>Records/sec<br>Event Streaming</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/O(1)-C084FC?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/28_Op-C084FC?style=for-the-badge" /><br>
+<sub><b>Bytecode Opcodes<br>Custom Compiler</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/500+-7C3AED?style=for-the-badge" /><br>
+<sub><b>Tests Across<br>All Projects</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/O(1)-6D28D9?style=for-the-badge" /><br>
 <sub><b>LRU Eviction<br>Cache Server</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/1,000+-7C3AED?style=for-the-badge" /><br>
-<sub><b>Financial Documents<br>Processed</b></sub>
+<img src="https://img.shields.io/badge/6_Modules-8B5CF6?style=for-the-badge" /><br>
+<sub><b>Agent Orchestration<br>Platform</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.shields.io/badge/95%25+-6D28D9?style=for-the-badge" /><br>
-<sub><b>Blockchain Risk<br>Detection Accuracy</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/30+-8B5CF6?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/30+-9333EA?style=for-the-badge" /><br>
 <sub><b>Students Mentored<br>in C++ Systems</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/30M+-9333EA?style=for-the-badge" /><br>
-<sub><b>Fitness Content<br>Views</b></sub>
 </td>
 </tr>
 </table>
@@ -83,32 +83,33 @@
 ```cpp
 class ShamsRupak {
 public:
-    // Software Engineer | AI/ML Engineer
-    
     string role      = "Software Engineer | AI/ML Engineer";
     string location  = "New York, NY";
     string education = "M.S. Engineering AI @ Stony Brook";
     string current   = "Teaching Assistant — C++ OOP";
     
     vector<string> languages = {
-        "C++", "Python", "Java", "SQL",
-        "JavaScript", "C"
+        "C++20", "Rust", "Python", "Java",
+        "SQL", "JavaScript", "C"
     };
     
-    vector<string> backend_systems = {
-        "REST APIs", "JWT Auth", "RBAC",
-        "Redis Caching", "Rate Limiting",
-        "PostgreSQL", "Docker", "CI/CD"
+    vector<string> systems = {
+        "Compilers", "Event Streaming",
+        "TCP Servers", "Bytecode VMs",
+        "Concurrency", "Memory Mgmt (RAII)",
+        "Mark-Sweep GC", "Wire Protocols"
     };
     
-    vector<string> core_cs = {
-        "DSA", "OOP Design", "Concurrency",
-        "Memory Mgmt (RAII)", "Complexity Analysis"
+    vector<string> backend = {
+        "FastAPI", "REST APIs", "JWT/OAuth2",
+        "Redis", "PostgreSQL", "Docker",
+        "Prometheus", "WebSockets", "CI/CD"
     };
     
     vector<string> ml_ai = {
-        "PyTorch", "RAG", "NLP", "OCR",
-        "LLMs", "scikit-learn", "Embeddings"
+        "PyTorch", "Transformers", "RAG",
+        "LoRA Fine-Tuning", "LLM Agents",
+        "Drift Detection", "NLP", "OCR"
     };
 
     string status() {
@@ -134,10 +135,11 @@ public:
 <summary><b>&nbsp;⚡ Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,c&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,python,java,javascript,c&perline=8&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-Systems_&_Concurrency-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++20-Compilers_&_Systems-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Event_Streaming-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Backend_&_ML-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -147,20 +149,24 @@ public:
 </details>
 
 <details open>
-<summary><b>&nbsp;🔧 Backend & Systems</b></summary>
+<summary><b>&nbsp;🔧 Systems & Backend</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,redis,postgres,linux,git,cmake&perline=8&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-Auth_&_RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT/OAuth2-Auth_&_RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-Caching_&_Rate_Limiting-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Schema_&_Migrations-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-Metrics_&_Monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-Real--Time-010101?style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-Build_Systems-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cargo-Rust_Build-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/TCP-Networking-333333?style=flat-square" />
   <img src="https://img.shields.io/badge/Alembic-DB_Migrations-6BA81E?style=flat-square" />
 </p>
 </details>
@@ -169,10 +175,11 @@ public:
 <summary><b>&nbsp;🧪 Testing & Quality</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Unit_&_Integration-Testing-25A162?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/500+_Tests-Across_All_Projects-25A162?style=flat-square&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/ASAN/UBSAN-Sanitizers-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/CI_Pipelines-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Debugging-GDB_&_Valgrind-4A154B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Benchmarking-p50/p95/p99-FF6B6B?style=flat-square" />
 </p>
 </details>
 
@@ -184,12 +191,15 @@ public:
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-GPT_from_Scratch-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/LoRA-Fine_Tuning-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Agents-DAG_Planning-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Semantic_Search-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Drift_Detection-PSI/KL-E6522C?style=flat-square" />
   <img src="https://img.shields.io/badge/scikit--learn-Classical_ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-RAG_Systems-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-Fine_Tuning-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/NLP-Text_Processing-7950F2?style=flat-square&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/OCR-Document_AI-4285F4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-Semantic_Search-00C853?style=flat-square" />
   <img src="https://img.shields.io/badge/XGBoost-Gradient_Boosting-FF6600?style=flat-square" />
 </p>
 </details>
@@ -213,7 +223,84 @@ public:
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> &nbsp;Featured Projects
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
+<!-- ROW 1: StreamForge + TinyLang — from-scratch systems -->
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 StreamForge — Event Streaming Engine</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/streamforge">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=streamforge&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/TCP-Networking-333?style=flat-square" />
+        <img src="https://img.shields.io/badge/LZ4-Compression-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/73_Tests-25A162?style=flat-square" />
+      </p>
+      <blockquote>
+        Kafka-inspired event streaming engine <b>built from scratch in Rust</b>. Commit log, TCP broker, custom wire protocol, producer/consumer SDKs, LZ4 compression, consumer groups. <b>304K records/sec throughput.</b>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔤 TinyLang — Compiled Language</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/tinylang">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=tinylang&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compiler-Bytecode-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/VM-Stack--Based-333?style=flat-square" />
+        <img src="https://img.shields.io/badge/112_Tests-25A162?style=flat-square" />
+      </p>
+      <blockquote>
+        <b>Programming language built from scratch</b> in C++20. Lexer, Pratt parser, type inference, 28-opcode bytecode compiler, stack-based VM with <b>mark-sweep garbage collector</b>. 6 example programs.
+      </blockquote>
+    </td>
+  </tr>
+
+  <!-- ROW 2: Nexus + SentinelBoard — AI/ML infrastructure -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 Nexus — AI Agent Orchestration Platform</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/nexus">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=nexus&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LoRA-Fine_Tuning-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Qwen--2.5-LLM-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/207_Tests-25A162?style=flat-square" />
+      </p>
+      <blockquote>
+        Enterprise AI agent orchestration with <b>6 modules</b> (core/connect/train/eval/observe/api). LoRA fine-tuning for Qwen-2.5, structured evaluation pipelines. <b>207 tests, 34 commits.</b>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 SentinelBoard — ML Monitoring Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/sentinelboard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=sentinelboard&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/47_Tests-25A162?style=flat-square" />
+      </p>
+      <blockquote>
+        Real-time ML monitoring with <b>PSI drift detection</b>, Prometheus metrics, WebSocket live updates. FastAPI + React. <b><a href="https://sentinelboard-ui.onrender.com">Live Demo →</a></b>
+      </blockquote>
+    </td>
+  </tr>
+
+  <!-- ROW 3: CacheCraft + MicroFormer -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ CacheCraft — Concurrent Cache Server</h3>
@@ -229,7 +316,45 @@ public:
         <img src="https://img.shields.io/badge/CI-ASAN/UBSAN-FF6B6B?style=flat-square" />
       </p>
       <blockquote>
-        Redis-inspired TCP cache server with <b>O(1) LRU eviction</b>, TTL expiration, and sharded thread-safe storage. Benchmarked p50/p95/p99 latency. Cross-platform CI with sanitizer builds.
+        Redis-inspired TCP cache server with <b>O(1) LRU eviction</b>, TTL expiration, sharded thread-safe storage. Benchmarked p50/p95/p99 latency. Cross-platform CI with sanitizer builds.
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 MicroFormer — GPT Transformer</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/microformer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=microformer&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Transformers-GPT-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/RoPE/RMSNorm-Architecture-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/112_Tests-25A162?style=flat-square" />
+      </p>
+      <blockquote>
+        GPT transformer <b>built from scratch</b> in PyTorch. RoPE positional encoding, RMSNorm, BPE tokenizer, multi-query attention ablation study. <b>112 tests.</b>
+      </blockquote>
+    </td>
+  </tr>
+
+  <!-- ROW 4: SAGE + PulseAPI -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 SAGE — LLM Research Agent</h3>
+      <div align="center">
+        <a href="https://github.com/ShamsRupak/sage">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=sage&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM_Agent-DAG_Planner-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/ReAct-Tool_Use-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/59_Tests-25A162?style=flat-square" />
+      </p>
+      <blockquote>
+        Autonomous research agent with <b>DAG-based hierarchical planner</b>, ReAct tool-use loop, evidence critic scoring, provider-agnostic LLM failover. <b>59 tests.</b>
       </blockquote>
     </td>
     <td width="50%" valign="top">
@@ -250,6 +375,8 @@ public:
       </blockquote>
     </td>
   </tr>
+
+  <!-- ROW 5: AI Doc Suite + NYC Weather -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Document Processing Suite</h3>
@@ -260,33 +387,14 @@ public:
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyMuPDF-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/OCR-4285F4?style=flat-square" />
         <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square" />
         <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/OCR-4285F4?style=flat-square" />
       </p>
       <blockquote>
         End-to-end pipeline processing <b>1,000+ financial docs</b> with intelligent classification, OCR extraction, and embedding-based semantic retrieval. <b>60% throughput increase.</b>
       </blockquote>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Student Buddy Chrome Extension</h3>
-      <div align="center">
-        <a href="https://github.com/ShamsRupak/student-buddy-extension">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShamsRupak&repo=student-buddy-extension&theme=tokyonight&hide_border=true&border_radius=10&icon_color=A78BFA&title_color=A78BFA" />
-        </a>
-      </div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chrome_APIs-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-      </p>
-      <blockquote>
-        AI-powered Chrome extension for <b>real-time academic assistance</b>. Modular frontend architecture with scalable API integration.
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌤️ NYC Weather Prediction</h3>
       <div align="center">
@@ -303,23 +411,6 @@ public:
         Full ML pipeline: EDA → feature engineering → model training. Accurate temperature trend predictions for NYC metro.
       </blockquote>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📞 Voice Bot QA Testing System</h3>
-      <div align="center">
-        <br>
-        <img src="https://img.shields.io/badge/🔒_Private_Repo-1a1b2e?style=for-the-badge" />
-        <br><br>
-      </div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square" />
-        <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <blockquote>
-        Automated QA system that makes <b>real phone calls</b> to AI healthcare agents, simulating patient scenarios with real-time voice processing and automated bug reports.
-      </blockquote>
-    </td>
   </tr>
 </table>
 
@@ -327,16 +418,16 @@ public:
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> &nbsp;Experience
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-> *From retail floor to systems programming — building, teaching, and shipping at every stage.*
+> *From retail floor to building compilers, streaming engines, and AI platforms.*
 
 ```
 📅 Full Timeline
 ═══════════════════════════════════════════════════════════════════════════════
  Jan 2026 – Now      🎓  Teaching Assistant — C++ OOP         @ Stony Brook
- May 2025 – Jul 2025 🤖  AI Engineering & Automation Extern   @ Outamation
- Sep 2024 – Nov 2024 🔐  Web3 Security Data Analytics Extern  @ Webacy
- Jul 2024 – May 2025 📱  Retail Mobile Expert                 @ T-Mobile
  Aug 2025 – Oct 2025 🍎  Sales Specialist                     @ Apple
+ May 2025 – Jul 2025 🤖  AI Engineering & Automation Extern   @ Outamation
+ Jul 2024 – May 2025 📱  Retail Mobile Expert                 @ T-Mobile
+ Sep 2024 – Nov 2024 🔐  Web3 Security Data Analytics Extern  @ Webacy
 ═══════════════════════════════════════════════════════════════════════════════
 ```
 
@@ -345,6 +436,14 @@ public:
 <br>
 
 Mentoring **30+ students** in systems-level C++ — covering OOP design patterns, STL containers, dynamic memory management, RAII, and pointer safety. Debugging segfaults, memory leaks, and logic errors. Conducting code reviews emphasizing correctness, modularity, and performance.
+
+</details>
+
+<details>
+<summary><b>🍎 Sales Specialist &nbsp;|&nbsp; Apple</b> &nbsp;<sub>Aug 2025 – Oct 2025</sub></summary>
+<br>
+
+Delivered the Apple retail experience — product consultation, hands-on demos, and technical guidance across the full Apple ecosystem. Consistent top performer in customer satisfaction and sales metrics.
 
 </details>
 
@@ -359,14 +458,6 @@ Mentoring **30+ students** in systems-level C++ — covering OOP design patterns
 </details>
 
 <details>
-<summary><b>🔐 Web3 Security Data Analytics Extern &nbsp;|&nbsp; Webacy</b> &nbsp;<sub>Sep 2024 – Nov 2024</sub></summary>
-<br>
-
-Applied **unsupervised ML & clustering** to detect anomalous blockchain transactions and smart contract vulnerabilities, achieving **95%+ accuracy** in labeled dataset reliability for risk categorization.
-
-</details>
-
-<details>
 <summary><b>📱 Retail Mobile Expert &nbsp;|&nbsp; T-Mobile</b> &nbsp;<sub>Jul 2024 – May 2025</sub></summary>
 <br>
 
@@ -375,10 +466,10 @@ Consultative sales across T-Mobile's full product ecosystem — devices, plans, 
 </details>
 
 <details>
-<summary><b>🍎 Sales Specialist &nbsp;|&nbsp; Apple</b> &nbsp;<sub>Aug 2025 – Oct 2025</sub></summary>
+<summary><b>🔐 Web3 Security Data Analytics Extern &nbsp;|&nbsp; Webacy</b> &nbsp;<sub>Sep 2024 – Nov 2024</sub></summary>
 <br>
 
-Delivered the Apple retail experience — product consultation, hands-on demos, and technical guidance across the full Apple ecosystem. Consistent top performer in customer satisfaction and sales metrics.
+Applied **unsupervised ML & clustering** to detect anomalous blockchain transactions and smart contract vulnerabilities, achieving **95%+ accuracy** in labeled dataset reliability for risk categorization.
 
 </details>
 
@@ -393,7 +484,7 @@ Delivered the Apple retail experience — product consultation, hands-on demos, 
 </td>
 <td>
   <b>Stony Brook University</b> — M.S. Engineering Artificial Intelligence <sub>(Aug 2025 – Dec 2026)</sub><br>
-  <sub>Data Structures & Algorithms · Object-Oriented Programming (C++) · Software Engineering · Machine Learning · Deep Learning · AI for Robotics</sub>
+  <sub>DSA · OOP (C++) · Software Engineering · Machine Learning · Deep Learning · AI for Robotics</sub>
 </td>
 </tr>
 <tr>
@@ -436,25 +527,25 @@ Delivered the Apple retail experience — product consultation, hands-on demos, 
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> &nbsp;Currently Exploring
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> &nbsp;What I Build
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-      <br><b>Systems Programming</b><br>
-      <sub>Distributed Systems · Networking<br>Performance Profiling</sub>
+      <br><b>Systems from Scratch</b><br>
+      <sub>Compilers · Streaming Engines<br>VMs · Garbage Collectors</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-      <br><b>Backend Infrastructure</b><br>
-      <sub>Kubernetes · Cloud Deploy<br>Observability · Monitoring</sub>
+      <br><b>Production Backend</b><br>
+      <sub>FastAPI · Docker · PostgreSQL<br>Redis · Prometheus · CI/CD</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-      <br><b>ML at Scale</b><br>
-      <sub>Model Serving · MLOps<br>LLM Fine-Tuning</sub>
+      <br><b>AI/ML Infrastructure</b><br>
+      <sub>Agent Orchestration · LoRA<br>Drift Detection · MLOps</sub>
     </td>
   </tr>
 </table>
@@ -470,7 +561,7 @@ Delivered the Apple retail experience — product consultation, hands-on demos, 
  ║                                                                  ║
  ║   🚀  Open to Software Engineering & ML Engineering roles        ║
  ║   📍  Based in New York — open to relocation & remote            ║
- ║   🔧  C++ · Python · Backend · Systems · ML · Databases          ║
+ ║   🔧  C++ · Rust · Python · Systems · ML · Databases             ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
