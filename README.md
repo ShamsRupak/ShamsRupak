@@ -4,7 +4,7 @@
 
 <!-- Custom Animated SVG Header -->
 <div align="center">
-  <a href="https://shamsrupak.lovable.app">
+  <a href="https://shamsrupak.vercel.app">
     <img src="header.svg?v=4" alt="Shams Rupak — Software Engineer | AI/ML Engineer" width="100%" />
   </a>
 </div>
@@ -24,10 +24,10 @@
   <a href="mailto:shamsrupak@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Software_Engineer.pdf">
+  <a href="https://github.com/ShamsRupak/ShamsRupak/raw/main/Shams_Rupak_Master_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>&nbsp;
-  <a href="https://shamsrupak.lovable.app">
+  <a href="https://shamsrupak.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ShamsRupak&style=for-the-badge&color=6d28d9&label=VISITORS" />
@@ -594,7 +594,7 @@ Applied **unsupervised ML & clustering** to detect anomalous blockchain transact
 <a href="mailto:shamsrupak@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://shamsrupak.lovable.app">
+<a href="https://shamsrupak.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
