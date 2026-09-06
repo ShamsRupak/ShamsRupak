@@ -70,25 +70,7 @@
 </table>
 </div>
 
-<br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧱 BUILT FROM SCRATCH CALLOUT                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-> **🧱 I don't use frameworks to learn — I build from scratch.**
-> 
-> **Compiler** → lexer, Pratt parser, type inference, 28-opcode bytecode compiler, stack VM with mark-sweep GC *(C++20)*
-> 
-> **Streaming Engine** → commit log, TCP broker, wire protocol, producer/consumer SDKs, LZ4 compression *(Rust)*
-> 
-> **Transformer** → GPT architecture from scratch — RoPE, RMSNorm, BPE tokenizer, MQA ablation *(PyTorch)*
-> 
-> **Cache Server** → O(1) LRU eviction, TTL, sharded thread-safe storage, benchmarked latency *(C++20)*
-
-</div>
 
 <br>
 
